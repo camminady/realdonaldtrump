@@ -6,7 +6,7 @@ The data is in JSON format and was exported on July 7, 2020. All tweets and retw
 
 
 To use with `python`, just run
-```
+```python
 import pandas as pd
 df = pd.read_json("https://raw.githubusercontent.com/camminady/realdonaldtrump/master/realdonaldtrump.json")
 ```
